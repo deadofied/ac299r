@@ -1,0 +1,99 @@
+very interesting:
+
+predict male vs female for created_for == 1 (141849)
+
+Accuracy on training data: 0.85
+Accuracy on test data:     0.83
+
+male profiles, predict created_for? (141849)
+
+Accuracy on training data: 0.88
+Accuracy on test data:     0.87
+
+for parent-created male profiles only, predict horoscope matching? (37159)
+
+Accuracy on training data: 0.87
+Accuracy on test data:     0.88
+
+
+
+
+others:
+
+predict male or female, created_for == 0 (141849)
+
+Accuracy on training data: 0.83
+Accuracy on test data:     0.83
+
+among females, predict created_for? (141849)
+
+Accuracy on training data: 0.79
+Accuracy on test data:     0.77
+
+
+predict caste imp for men, profiles by parents only (141849)
+
+Accuracy on training data: 0.72
+Accuracy on test data:     0.71
+
+
+predict caste_imp for women, profiles by parents only (141859)
+
+Accuracy on training data: 0.73
+Accuracy on test data:     0.72
+
+
+among self-created male profiles only, predict caste_imp? (141859)
+
+Accuracy on training data: 0.64
+Accuracy on test data:     0.59
+
+
+among self-created female profiles only, predict caste_imp? (141859)
+
+Accuracy on training data: 0.67
+Accuracy on test data:     0.61
+
+
+for parent created female profiles, predict horoscope matching? (37159)
+
+Accuracy on training data: 0.86
+Accuracy on test data:     0.86
+
+
+among self-created male profiles predict horoscope matching (37159)
+
+Accuracy on training data: 0.71
+Accuracy on test data:     0.69
+
+
+among self-created female profiles, predict horoscope matching (37159)
+
+
+Accuracy on training data: 0.79
+Accuracy on test data:     0.77
+
+
+among self-created men, predict upper/rich class vs middle/uppermiddle? (85460)
+
+Accuracy on training data: 0.63
+Accuracy on test data:     0.56
+
+
+among self-created women, same as above (85460):
+
+Accuracy on training data: 0.61
+Accuracy on test data:     0.57
+
+
+among parent created male profiles, predict upper-middle-class vs middle class? (78979)
+
+Accuracy on training data: 0.69
+Accuracy on test data:     0.66
+
+
+among parent-created female profiles:
+
+Accuracy on training data: 0.63
+Accuracy on test data:     0.61
+
