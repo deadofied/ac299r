@@ -18,7 +18,7 @@ Accuracy on test data:     0.88
 
 
 
-others:
+not so interesting:
 
 predict male or female, created_for == 0 (141849)
 
