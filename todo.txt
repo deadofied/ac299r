@@ -1,0 +1,29 @@
+find thetas of the multinomial
+
+make sure this is right!!
+
+stemming
+
+
+unsupervised clustering
+scikit
+density or xmeans
+dbscan
+
+posterior
+
+
+non-categorical clustering
+cateogircal clustering
+
+rapidminer
+
+decision tree
+
+https://www.youtube.com/watch?v=Vf6G1HNdBoI
+
+http://www.quora.com/RapidMiner/How-can-RapidMiner-be-used-for-prediction
+
+bring income into the mix i say
+
+http://netprophetblog.blogspot.com/2012/10/a-detour-into-rapidminer.html
